@@ -32,7 +32,7 @@ The web application allows users to choose specific countries to view their Olym
 For every athlete who has ever participated in the Olympics, individual profiles are available, showcasing their achievements, personal bests, and career highlights throughout different editions.
 
 
-<img align="left" src="templates/olympic_games_dribbble.png">
+<img style="width:400px" align="left" src="templates/main-infog-infographie-sites.png">
 
 <h3>🌐 Interactive Data Visualizations:</h3>
 
@@ -59,8 +59,9 @@ Users can export specific datasets or share visualizations on social media platf
 
 Using advanced algorithms, the web application provides predictive insights for upcoming Olympic events based on historical data and current athlete performance.
 
-### Website Preview
+# Website Preview
 
-<img src="templates/">
-<img src="templates/">
+<img src="templates/Screenshot 2023-07-29 211729.png">
+
+<img src="templates/Screenshot 2023-07-29 210913.png">
 
